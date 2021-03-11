@@ -20,9 +20,9 @@
 
 #### 📫 ¿Donde contactarme?:
 
-**[pereyrago@gmail.com](mailto:pereyrago@gmail.com)**
+**[leandromasmut@gmail.com](mailto:leandromasmut@gmail.com)**
 
-<a href="https://www.linkedin.com/in/gabi-pereyra/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vjRRQsdSmOoyX9RMgngIAwHaHa%26pid%3DApi&f=1" alt="gabriel-pereyra" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/leandro-sebastian-masmut-766433140/" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vjRRQsdSmOoyX9RMgngIAwHaHa%26pid%3DApi&f=1" alt="gabriel-pereyra" height="30" width="30" /></a>
 
 <hr/>
 
