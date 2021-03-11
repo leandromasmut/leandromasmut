@@ -30,7 +30,6 @@
 <p align="center"> 
   <a href="https://expo.io/" target="_blank"> <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="expo" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fvoodootikigod%2Flogo.js%2Fmaster%2Fjs.png&f=1&nofb=1" alt="javascript" width="40" height="40"/> </a>
-  
   <a href="https://reactjs.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WA_9JsyqFkge2HwYKcdJQwHaFO%26pid%3DApi&f=1" alt="react" width="40" height="40"/> </a> 
    <a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="jasmine" width="40" height="40"/> </a>    
   <a href="https://redux.js.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Freduxjs%2Fredux%2Fmaster%2Flogo%2Flogo.png&f=1&nofb=1" alt="redux" width="40" height="40"/> </a> 
@@ -44,7 +43,6 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/057/thumb/scsslogo.png" alt="sass" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  
   <a href="https://webpack.js.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fwebpack%2Fmedia%2Fmaster%2Flogo%2Ficon-square-big.png&f=1&nofb=1" alt="webpack" width="40" height="40"/> </a>
 </p>
 <hr/>
