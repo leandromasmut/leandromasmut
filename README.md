@@ -1,6 +1,6 @@
 <h3 align="center">Hola 😄, soy Leandro Masmut</h3>
 <h3 align="center">Fullstack Developer</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="pereyrago" /> </p>
+
 
 <div align="center">
 
